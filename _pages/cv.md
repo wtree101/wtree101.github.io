@@ -15,10 +15,12 @@ in information science and computational mathematics, especially in digital sign
 processing, and their applications in medicine and brain science. I hope to study for a Ph.D. in this
 field and make meaningful contributions both in theory and application.
 
+
 CV
 ======
 [Download cv here](http://wtree101.github.io/files/CV_TongWu.pdf)
 [Download PS here](http://wtree101.github.io/files/PS_TongWu.pdf)
+
 
 Education
 ======
@@ -26,7 +28,7 @@ Education
 [//]:* M.S. in Jekyll, GitHub University, 2014
 [//]:* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * Sun Yat-Sen University, Guangzhou, Guangdong, China
-  *2018.9 – Now
+  * 2018.9 – Now
   * Mathematics and Applied Mathematics
 
 <!--
@@ -45,12 +47,11 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Matlab, C++, Python, Latex
+* Language
+  * English(IELTS 7, reading 9)
+  * Chinese(native)
 
 <!--
 Publications
