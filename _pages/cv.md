@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Introduction
-======
+
 My name is Tong Wu, a Chinese student. I am currently studying mathematics and applied
 mathematics at Sun Yat-sen University and expected to graduate in 2022.6. I have a strong interest
 in information science and computational mathematics, especially in digital signal and image
@@ -18,20 +17,17 @@ field and make meaningful contributions both in theory and application.
 
 CV
 ======
-[Download cv here](http://academicpages.github.io/files/CV_TongWu.pdf)
+[Download cv here](http://wtree101.github.io/files/CV_TongWu.pdf)
+[Download PS here](http://wtree101.github.io/files/PS_TongWu.pdf)
 
 Education
 ======
 [//]:* B.S. in GitHub, GitHub University, 2012
 [//]:* M.S. in Jekyll, GitHub University, 2014
 [//]:* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* Sun Yat-Sen University, 2018.9 – Now
-  * Mathematics and Applied Mathematics;GPA 4.28 Rank 5/137 (Core GPA 4.49 Rank 2/137)
-  * 2018-2019 Sun Yat-sen University First-class Scholarship; 2018 National Scholarship (2%)
-  * Core courses: Mathematical Analysis, Geometry and Algebra, Numerical Analysis, Probability, Mathematical
-Statistics, Fourier Analysis, Partial Differential Equations, Matlab, Matrix Analysis, Stochastic Processes,
-Functional Analysis, Real Analysis, Complex Analysis etc.
-  * Self-learning: Sparse Optimization, Signal Processing, Wavelet Analysis
+* Sun Yat-Sen University, Guangzhou, Guangdong, China
+  *2018.9 – Now
+  * Mathematics and Applied Mathematics
 
 <!--
 Work experience
