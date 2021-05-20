@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Introduction"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
+Introduction
+======
+My name is Tong Wu, a Chinese student. I am currently studying mathematics and applied
+mathematics at Sun Yat-sen University and expected to graduate in 2022.6. I have a strong interest
+in information science and computational mathematics, especially in digital signal and image
+processing, and their applications in medicine and brain science. I hope to study for a Ph.D. in this
+field and make meaningful contributions both in theory and application.
+
+CV
+======
+[Download cv here](http://academicpages.github.io/files/CV_TongWu.pdf)
 
 Education
 ======
