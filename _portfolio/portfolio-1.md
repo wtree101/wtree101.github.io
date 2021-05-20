@@ -7,6 +7,8 @@ I like drawing very much since I was young, and I learned a little bit of sketch
 
 <img src='/images/bird.jpg'>
 
+<img src='/images/fire.jpg'>
+
 Now I like to use the iPad to draw some small daily works.
 
 <img src='/images/hurted.jpg'>
